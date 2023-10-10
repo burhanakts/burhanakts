@@ -6,17 +6,13 @@
 ### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I'm working as a Backend Web Developer.
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 📚 Currently, I'm learning web development with Python and Django.
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- ⚡ In my free time, I contribute to open-source projects and enjoy doing sports.  
 
 <br/>  
 
