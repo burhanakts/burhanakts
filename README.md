@@ -2,10 +2,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" align="center" style="width: 100%" />
 </div>
 
-### Languages
+## Languages
 <a href="README-tr.md">![Static Badge](https://img.shields.io/badge/dil%3A-t%C3%BCrk%C3%A7e-blue)</a>  <a href="README.md">![Static Badge](https://img.shields.io/badge/language%3A-english-tomato)</a> <br>
 
-### <b>Hello <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" align="center" style="height: 18px;" /> ! I'm <strong>Burhan Aktaş</strong>, from Turkey.</b>  
+## <b>Hello <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" align="center" style="height: 18px;" /> ! I'm <strong>Burhan Aktaş</strong>, from Turkey.</b>  
 
 - 🔭 I'm working as a Backend Web Developer.
   
@@ -17,7 +17,7 @@
 <br/>  
 
 
-### Technologies
+## Technologies
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
