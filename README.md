@@ -1,7 +1,9 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" align="center" style="width: 100%" />
-</div>  
-  
+</div>
+
+### Languages
+<a href="README-tr.md">![Static Badge](https://img.shields.io/badge/dil%3A-t%C3%BCrk%C3%A7e-blue)</a>  <a href="README.md">![Static Badge](https://img.shields.io/badge/language%3A-english-tomato)</a> <br>
 
 ### <b>Hello <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" align="center" style="height: 18px;" /> ! I'm <strong>Burhan Aktaş</strong>, from Turkey.</b>  
 
@@ -48,24 +50,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=burhanakts&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=burhanaktas&&style=flat-square" align="center" />
 </div>  
   
 
