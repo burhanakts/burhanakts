@@ -69,7 +69,7 @@
 <div align="center">
             <a href="https://www.buymeacoffee.com/burhanakts" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    src="https://img.shields.io/badge/Ismarla-Bir_bardak_oralet-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
             </a></div>
